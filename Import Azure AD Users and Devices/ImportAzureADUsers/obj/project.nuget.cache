@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S6tMt/UzoExpHYOFRyVL8ePHaudgIXcVuurIyq1+DL5jExFed9Fm9PiwmVH+b9nZyYAqHc/ArpfOzmegNdHFYw==",
+  "dgSpecHash": "bpM/3e+hJMfnbHYcrwW00hgmQj5qtEFXdK1+5Pi6wOGNbAfBSdRB+y3gPEjyfsNFreNp1O/q+/uy1GgFKpD07w==",
   "success": true,
-  "projectFilePath": "D:\\Vizion\\Get AD users from Azure\\Import Azure AD Users\\ImportAzureADUsers\\ImportAzureADUsers.csproj",
+  "projectFilePath": "D:\\Vizion\\Get AD users from Azure\\Import Azure AD Users and Devices\\ImportAzureADUsers\\ImportAzureADUsers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Demo\\.nuget\\packages\\azure.core\\1.16.0\\azure.core.1.16.0.nupkg.sha512",
     "C:\\Users\\Demo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
